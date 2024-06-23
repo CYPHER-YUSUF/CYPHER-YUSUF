@@ -15,8 +15,8 @@ Frameworks:  NodeJs
 Database: No-sql and SQL
 📫 Get in Touch:
 
-Let's connect on LinkedIn and share our professional journeys.
-Follow me on Twitter for tech contents.
+• Let's Link up on LinkedIn and share our professional ideas and journeys.
+• Follow me on Twitter for tech contents.
 😄 Fun Facts:
 
 Pronouns😂: He/Him
